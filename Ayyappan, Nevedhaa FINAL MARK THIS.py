@@ -1,5 +1,4 @@
 #Name: Nevedhaa Ayyappan
-#Date: June 11th, 2019
 #Course: Computer Science
 #Assignment: Culminating Game
 
